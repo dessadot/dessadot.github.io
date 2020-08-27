@@ -29,20 +29,11 @@ timezone: Asia/Seoul
 ##############################
 author:
   type      : person
-  name      : jETA
-  url       : https://jetalog.net
-  avatar    : 
+  name      : DessaDot
   bio       : 
   email     :
-  facebook  : 
-  twitter   : 
-  weibo     : 
   googleplus: 
-  telegram  : 
   medium    : 
-  zhihu     : 
-  douban    : 
   linkedin  : 
   github    : dessadot
-  npm       : dessadot
   
